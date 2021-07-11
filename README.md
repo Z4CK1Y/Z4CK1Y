@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**Z4CK1Y/Z4CK1Y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Github](https://img.shields.io/badge/Github-ZACKY--TRICKER-dimgray?style=flat-square&logo=github)](https://github.com/Z4CK1Y) [![Facebook](https://img.shields.io/badge/Facebook-ZACKY--TUKANG--COLI-blue?style=flat-square&logo=facebook)](https://www.facebook.com/zacky.edan00) 
+
+</div>
+
+![github stats](https://github-readme-stats.vercel.app/api?username=Z4CK1Y&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200) <br>
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Z4CK1Y&layout=compact&theme=chartreuse-dark" /> <br>
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Z4CK1Y&repo=FBCP&theme=chartreuse-dark" /> <br>
+
+<br><br>
