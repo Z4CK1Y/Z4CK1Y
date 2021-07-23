@@ -1,8 +1,3 @@
-<img src="https://github.com/Z4CK1Y/Z4CK1Y/blob/main/81735808.jpeg" width="120" height="120" align="left">
-<center>
-<center>
-  
-
 <div align="center">
   
 [![Github](https://img.shields.io/badge/Github-ZACKY--TRICKER-dimgray?style=flat-square&logo=github)](https://github.com/Z4CK1Y) [![Facebook](https://img.shields.io/badge/Facebook-ZACKY--TUKANG--COLI-blue?style=flat-square&logo=facebook)](https://www.facebook.com/zacky.edan00) 
